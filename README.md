@@ -36,4 +36,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For questions about the code or paper, please contact:
-- Dan F.M. Goodman (d.goodman@imperial.ac.uk)
+- Neural Reckoning Group (https://neural-reckoning.org/)
